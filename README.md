@@ -50,13 +50,14 @@
   <!-- Database -->
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 
-  <!-- Other Languages & Tools -->
+  <!-- Other Tools -->
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://seeklogo.com/images/F/filmora-logo-979E1EF159-seeklogo.com.png" alt="Filmora" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/></a>
-</p>
 
+  <!-- 🎨 Design Tools (Stylized Logos) -->
+  <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Filmora_Logo_2021.svg/512px-Filmora_Logo_2021.svg.png" alt="Filmora" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/512px-Canva_icon_2021.svg.png" alt="Canva" width="40" height="40"/></a>
+</p>
 ---
 
 ### 📊 GitHub Stats
