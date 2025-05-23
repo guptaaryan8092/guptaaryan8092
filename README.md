@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **MERN Stack Development**
 - 💡 I enjoy solving **Data Structures & Algorithms** problems
 - 🚀 I love building **full-stack web apps**
-- 💬 Ask me about **JavaScript, React, PHP, and MySQL**
 - 📫 How to reach me: **guptaaryan8092@gmail.com**
 - ⚡ Fun fact: I debug my dreams 😄
 
@@ -49,6 +48,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <!-- Other Tools -->
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 </p>
 
 
